@@ -11,7 +11,7 @@ This **ObjectBox Subscription Agreement**, including all attachments, amendments
 
 “**Authorised User**” refers to the individual users and natural persons permitted by the Customer to access the Commercial Software, as specified on the Order Form or otherwise notified to ObjectBox.
 
-"**Billable Device**" means, with respect to a Subscription, a number that is the greater of (i) the number of Devices running across all Projects covered by the Subscription or (ii) the total number of cores of all devices, wherein a device is specified to have at least one CPU and run an operating system, across the project covered by the Subscription divided by 4 covered by the Subscription, with any fractional remainder being rounded up to the next whole number.
+"**Billable Device**" means, with respect to a Subscription, a number that is the greater of (i) the number of Devices running across all Projects covered by the Subscription or (ii) the total number of cores of all devices, wherein a device is specified to have at least one CPU and run an operating system, across the project covered by the Subscription divided by 4 covered, with any fractional remainder being rounded up to the next whole number.
 
 “**Commercial Software**” means ObjectBox-branded software that is licensed under the Commercial Software Licence attached (“**Licence**") including the ObxDB, ObxSync, and ObxTS and all updates and new releases that are made generally available by ObjectBox to its customers during an applicable Subscription Term, but not including the Community Software;
 
