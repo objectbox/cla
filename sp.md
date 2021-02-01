@@ -27,8 +27,11 @@ Support is only provided up to the number of Billable Devices and/or ObxSync Ins
 **Definition of terms**:
 
 “Business Day” means Monday through Friday except for national holidays in the place from which Support Services may be provided (as notified to you by us); the default place from which Support Services are provided is Germany.
+
 “Incident” means a single question or issue posed by a Support Contact using the Support Services.
+
 “Support Contact” means a single named individual that is authorized to contact ObjectBox on your behalf to make use of the Support Services.
+
 The default time zone for Normal Hours of Operation is CEST (unless we notify you otherwise).
 
 **Gold Level**
@@ -42,8 +45,24 @@ The default time zone for Normal Hours of Operation is CEST (unless we notify yo
 
 | Severity | Target Response |
 | --- | ----------- |
+| Level 1 | 2 Business Hours |
+| Level 2	| 4 Business Hours |
+| Level 3	| 1 Business Day |
+
+**Silver Level**
+
+*	**Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Order Form
+*	**Method**: phone or mail
+*	**Maximum number of Developers Support Contacts**: 4
+*	**Emergency Patches**: no
+*	**Annual Incidents**: 20
+*	**Billable Devices**: up to the limit specified on the Order Form
+*	**ObxSync Instances**: up to the limit specified on the Order Form
+
+| Severity | Target Response |
+| --- | ----------- |
 | Level 1 | 4 Business Hours |
-| Level 2	| 1 Business Day |
+| Level 2	| 1 Business Days |
 | Level 3	| 2 Business Days |
 
 **Bronze Level**
@@ -80,25 +99,25 @@ A Level 3 issue involves a medium-to-low impact error that involves either parti
 ## 5.	Customer Obligations.
 
 
-Customer must provide a functional Project/Application description at time of order to clearly define the Project/Application ObjectBox will be supporting. Customer is responsible for ensuring that its employees interacting with ObjectBox have sufficient English language and technical skills, and respond to and cooperate with ObjectBox in a timely manner in connection with requests for Support Services. Objectbox cannot be in breach of this Policy or the applicable Agreement where any failure or delay is caused by the Customer’s breach of this section 5.
+Customer must provide a functional Project/Application description at time of order to clearly define the Project/Application ObjectBox will be supporting. Customer is responsible for ensuring that its employees interacting with ObjectBox have sufficient English language and technical skills, and respond to and cooperate with ObjectBox in a timely manner in connection with requests for Support Services. ObjectBox cannot be in breach of this Policy or the applicable Agreement where any failure or delay is caused by the Customer’s breach of this section 5.
 
-When requesting Support Services from ObjectBox, the following preconditions apply: Customer agrees to (and to oblige each of its developers to) use reasonable efforts to: (i) attempt to resolve the problem and to utilize sufficient resources to clearly understand that a problem exists before consulting ObjectBox and promptly provide such evidence of such steps to Objectbox in writing as ObjectBox reasonably requires; (ii) provide ObjectBox with sufficient information and technical data to allow ObjectBox to establish that a potential problem is not the kind of problem that is an exclusion from the Support Services; (iii) make reasonable attempts and use reasonable resources to provide any data reasonably requested by ObjectBox to sufficiently address the potential problem; (iv) utilize adequate resources to understand the instructions from ObjectBox in addressing the problem, and make reasonable attempts to correct the problem as suggested by ObjectBox and (v) not take any action that is inconsistent with instructions given to it by ObjectBox. In addition, Customer agrees and acknowledges that the extent of access and the accuracy of information and technical data provided may affect ObjectBox’s ability to provide the Support Services.
+When requesting Support Services from ObjectBox, the following preconditions apply: Customer agrees to (and to oblige each of its developers to) use reasonable efforts to: (i) attempt to resolve the problem and to utilize sufficient resources to clearly understand that a problem exists before consulting ObjectBox and promptly provide such evidence of such steps to ObjectBox in writing as ObjectBox reasonably requires; (ii) provide ObjectBox with sufficient information and technical data to allow ObjectBox to establish that a potential problem is not the kind of problem that is an exclusion from the Support Services; (iii) make reasonable attempts and use reasonable resources to provide any data reasonably requested by ObjectBox to sufficiently address the potential problem; (iv) utilize adequate resources to understand the instructions from ObjectBox in addressing the problem, and make reasonable attempts to correct the problem as suggested by ObjectBox and (v) not take any action that is inconsistent with instructions given to it by ObjectBox. In addition, Customer agrees and acknowledges that the extent of access and the accuracy of information and technical data provided may affect ObjectBox’s ability to provide the Support Services.
 
 CUSTOMER AGREES NOT TO USE THE SUPPORT SERVICES IN ANY WAY THAT IS PROHIBITED BY THE TERMS OF THE AGREEMENT, INCLUDING IN CONNECTION WITH THE DEVELOPMENT, DEPLOYMENT, ENABLEMENT AND/OR MAINTENANCE OF ANY NON-OBJECTBOX SOFTWARE THAT COMPETES WITH OBJECTBOX’S SOFTWARE PRODUCTS.
 
 ## 6.	Support Service Exclusions.
 
 
-ObjectBox will have no obligation to provide Support Services to Customer if (i) the Objectbox Software has been changed, modified or damaged by Customer or anyone other than ObjectBox, (ii) the problem is caused by Customer’s negligence, misconduct, or misuse of the Objectbox Software, a hardware malfunction, or other causes beyond the reasonable control of ObjectBox, (iii) the problem is due to third party software, (iv) the Objectbox Software is being hosted by a third party that is offering the Objectbox Software as a service (v) Customer has not installed or implemented any Software releases made generally available or is not running a then supported version of the Objectbox Software as provided by ObjectBox as defined in Section 7 or (vi) information requested by Customer could reasonably be expected to assist in the development, deployment, enablement and/or maintenance of any non-ObjectBox Software that competes with ObjectBox’s Software products. The Support Services do not cover the support of any third party software which integrates with the Objectbox Software. In addition, the Support Services do not include the following: (a) use of any version of a Software that is not designated as a production release (such as a milestone or release candidate or code contained in the sandbox or any other repository that is not packaged into a production release distribution); (b) Customer’s failure to comply with any operating instructions contained in the documentation, or other guidance, instructions or directions issued to the Customer by Objectbox (from time to time); (c) installation, configuration, management and operation of Customer’s applications; (d) APIs, interfaces or data formats other than those included with the Objectbox Software; or (e) any training. In addition, Support Services are available only for one Project/Application per Agreement and may not be used at all for Production systems where “Production” means the system is using/processing live data.
+ObjectBox will have no obligation to provide Support Services to Customer if (i) the ObjectBox Software has been changed, modified or damaged by Customer or anyone other than ObjectBox, (ii) the problem is caused by Customer’s negligence, misconduct, or misuse of the ObjectBox Software, a hardware malfunction, or other causes beyond the reasonable control of ObjectBox, (iii) the problem is due to third party software, (iv) the ObjectBox Software is being hosted by a third party that is offering the ObjectBox Software as a service (v) Customer has not installed or implemented any Software releases made generally available or is not running a then supported version of the ObjectBox Software as provided by ObjectBox as defined in Section 7 or (vi) information requested by Customer could reasonably be expected to assist in the development, deployment, enablement and/or maintenance of any non-ObjectBox Software that competes with ObjectBox’s Software products. The Support Services do not cover the support of any third party software which integrates with the ObjectBox Software. In addition, the Support Services do not include the following: (a) use of any version of a Software that is not designated as a production release (such as a milestone or release candidate or code contained in the sandbox or any other repository that is not packaged into a production release distribution); (b) Customer’s failure to comply with any operating instructions contained in the documentation, or other guidance, instructions or directions issued to the Customer by ObjectBox (from time to time); (c) installation, configuration, management and operation of Customer’s applications; (d) APIs, interfaces or data formats other than those included with the ObjectBox Software; or (e) any training. In addition, Support Services are available only for one Project/Application per Agreement and may not be used at all for Production systems where “Production” means the system is using/processing live data.
 
 ## 7.	Version Support.
 
 
 ObjectBox will provide Support Services as follows:
 
-**7.1** We use a three-place numbering scheme to uniquely name released versions of the Objectbox Software. The format is MAJOR.MINOR.PATCH, where ‘MAJOR’ indicates a major enhancement of the Objectbox Software, ‘MINOR’ indicates minor enhancements of the Objectbox Software, for example but not limited to new functionalities, and ‘PATCH’ indicates maintenance / bug fixes. An example would be version 2.0.1. Often in referring to general software versions and releases, the maintenance level is omitted. For example, both 2.0.1 and 2.0.2 may sometimes be referred to as Version 2.0.
+**7.1** We use a three-place numbering scheme to uniquely name released versions of the ObjectBox Software. The format is MAJOR.MINOR.PATCH, where ‘MAJOR’ indicates a major enhancement of the ObjectBox Software, ‘MINOR’ indicates minor enhancements of the ObjectBox Software, for example but not limited to new functionalities, and ‘PATCH’ indicates maintenance / bug fixes. An example would be version 2.0.1. Often in referring to general software versions and releases, the maintenance level is omitted. For example, both 2.0.1 and 2.0.2 may sometimes be referred to as Version 2.0.
 
-Each MAJOR level release will be supported for eighteen (18) months from the date the Version is initially released (as stated in the documentation). Support for each Version is supplied via Maintenance Fixes (PATCH level). ObjectBox will fix errors only in the most current PATCH level for the most current MINOR version of the Objectbox Software. Support Services will direct Customers to existing fixes/patches and workarounds applicable to the reported case, and may direct Customers to upgrade to a more current MAJOR / MINOR / PATCH of the Objectbox Software. Once applicable, you will find the End of Life table for ObjectBox products online.
+Each MAJOR level release will be supported for eighteen (18) months from the date the Version is initially released (as stated in the documentation). Support for each Version is supplied via Maintenance Fixes (PATCH level). ObjectBox will fix errors only in the most current PATCH level for the most current MINOR version of the ObjectBox Software. Support Services will direct Customers to existing fixes/patches and workarounds applicable to the reported case, and may direct Customers to upgrade to a more current MAJOR / MINOR / PATCH of the Objectbox Software. Once applicable, you will find the End of Life table for ObjectBox products online.
 
 **7.2** If support for a Version would normally expire under Section 7.1 and no later Version has been released, support for the old Version will be extended until the date that is thirty (30) days after the date on which a new Version is released.
 
