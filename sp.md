@@ -32,12 +32,12 @@ Support is only provided up to the number of Billable Devices and/or ObxSync Ins
 
 “Support Contact” means a single named individual that is authorized to contact ObjectBox on your behalf to make use of the Support Services.
 
-The default time zone for Normal Hours of Operation is CEST (unless we notify you otherwise).
+The default time zone for Normal Hours of Operation is CET (unless we notify you otherwise).
 
 **Gold Level**
 * **Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Sales Order Form 
 *	**Method**: phone or mail
-*	**Maximum number of Support Contacts**: 6
+*	**Maximum number of Named Dedicated Contacts**: 2
 *	**Emergency Patches**: yes
 *	**Annual Incidents**: unlimited
 *	**Billable Devices**: up to the limit specified on the Order Form
@@ -53,7 +53,7 @@ The default time zone for Normal Hours of Operation is CEST (unless we notify yo
 
 *	**Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Order Form
 *	**Method**: phone or mail
-*	**Maximum number of Developers Support Contacts**: 4
+*	**Maximum number of Named Dedicated Contacts**: 1
 *	**Emergency Patches**: no
 *	**Annual Incidents**: 20
 *	**Billable Devices**: up to the limit specified on the Order Form
@@ -69,7 +69,7 @@ The default time zone for Normal Hours of Operation is CEST (unless we notify yo
 
 *	**Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Order Form
 *	**Method**: mail
-*	**Maximum number of Developers Support Contacts**: 2
+*	**Maximum number of Named Dedicated Contacts**: none
 *	**Emergency Patches**: no
 *	**Annual Incidents**: 10
 *	**Billable Devices**: up to the limit specified on the Order Form
