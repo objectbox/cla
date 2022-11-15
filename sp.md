@@ -61,9 +61,9 @@ The default time zone for Normal Hours of Operation is CET (unless we notify you
 
 | Severity | Target Response |
 | --- | ----------- |
-| Level 1 | 4 Business Hours |
-| Level 2	| 1 Business Days |
-| Level 3	| 2 Business Days |
+| Level 1 | 1 Business Day |
+| Level 2	| 2 Business Days |
+| Level 3	| 3 Business Days |
 
 **Bronze Level**
 
