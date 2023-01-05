@@ -37,6 +37,7 @@ The default time zone for Normal Hours of Operation is CET (unless we notify you
 **Gold Level**
 * **Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Sales Order Form 
 *	**Method**: phone or mail
+*	**Maximum Number of Developer Support Contacts**: 6
 *	**Emergency Patches**: yes
 *	**Annual Incidents**: unlimited
 *	**Billable Devices**: up to the limit specified on the Order Form
@@ -52,6 +53,7 @@ The default time zone for Normal Hours of Operation is CET (unless we notify you
 
 *	**Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Order Form
 *	**Method**: mail
+*	**Maximum Number of Developer Support Contacts**: 4
 *	**Emergency Patches**: no
 *	**Annual Incidents**: 20
 *	**Billable Devices**: up to the limit specified on the Order Form
@@ -67,6 +69,7 @@ The default time zone for Normal Hours of Operation is CET (unless we notify you
 
 *	**Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Order Form
 *	**Method**: mail
+*	**Maximum Number of Developer Support Contacts**: 2
 *	**Emergency Patches**: no
 *	**Annual Incidents**: 10
 *	**Billable Devices**: up to the limit specified on the Order Form
