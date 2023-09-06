@@ -25,7 +25,7 @@ This **ObjectBox Subscription Agreement**, including all attachments, amendments
 
 “**ObxDB**” means the ObjectBox Commercial Database Software known as “ObjectBox Enterprise Database,” which are subject to the terms of the Licence and included only in an Open Core Bronze, Silver or Gold Subscription.
 
-“**ObxSync**” means the ObjectBox Commercial Synchronization Software known as “ObjectBox Sync,” use rights, which are subject to the terms of the Licence and included only in a Sync Bronze, Sync Silver, or Sync Gold Subscription.
+“**ObxSync**” means the ObjectBox Commercial Synchronization Software known as “ObjectBox Sync,” use rights, which are subject to the terms of the Licence. Unless explicitly noted on the Order Form, ObxSync is included only in a Sync Bronze, Sync Silver, or Sync Gold Subscription.
 
 “**ObxTS**” means the ObjectBox Commercial Time Series Software known as “ObjectBox Time Series,” use rights, which are subject to the terms of the Licence and included only in a TS Bronze, TS Silver, or TS Gold Subscription.
 
