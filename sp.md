@@ -35,7 +35,7 @@ Support is only provided up to the number of Billable Devices and/or ObxSync Ins
 The default time zone for Normal Hours of Operation is CET (unless we notify you otherwise).
 
 **Gold Level**
-* **Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Sales Order Form 
+* **Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Sales Order Form 
 *	**Method**: phone or mail
 *	**Maximum Number of Developer Support Contacts**: 6
 *	**Emergency Patches**: yes
@@ -51,7 +51,7 @@ The default time zone for Normal Hours of Operation is CET (unless we notify you
 
 **Silver Level**
 
-*	**Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Order Form
+*	**Normal Hours of Operation**: 9AM – 5PM business hours in the time zone applicable for the location shown on the Order Form
 *	**Method**: mail
 *	**Maximum Number of Developer Support Contacts**: 4
 *	**Emergency Patches**: no
@@ -67,7 +67,7 @@ The default time zone for Normal Hours of Operation is CET (unless we notify you
 
 **Bronze Level**
 
-*	**Normal Hours of Operation**: 8AM – 6PM business hours in the time zone applicable for the location shown on the Order Form
+*	**Normal Hours of Operation**: 9AM – 5PM business hours in the time zone applicable for the location shown on the Order Form
 *	**Method**: mail
 *	**Maximum Number of Developer Support Contacts**: 2
 *	**Emergency Patches**: no
