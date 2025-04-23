@@ -31,6 +31,8 @@ This **ObjectBox Subscription Agreement**, including all attachments, amendments
 
 “**ObxSync Instance**" refers to any device running ObxSync deployed by Customer in connection with a Subscription.
 
+"**ObxSync User**" means, with respect to a Subscription, an individual person who is authorized to access and use ObxSync deployed by Customer in connection with a Subscription.
+
 “**Non-production Environment**” means an environment such as development,
 staging, or quality assurance, where any Software is not used for production purposes.
 
@@ -65,9 +67,12 @@ staging, or quality assurance, where any Software is not used for production pur
 
 2.1.1    number of Billable Devices included in a Subscription;
 
-2.1.2     number of ObxSync instances included in a Subscription (in the case of a Sync Subscription); and
+2.1.2    number of ObxSync instances included in a Subscription (in the case of a Sync Subscription); and
 
-2.1.3     Support Services to be provided as part of the Subscription.
+2.1.3    number of ObxSync Users included in a Subscription; and
+
+2.1.4    Support Services to be provided as part of the Subscription.
+
 
 (collectively the “**Subscription Fees**”). The Subscription Fees shall be specified on the Order Form.
 
@@ -75,7 +80,7 @@ staging, or quality assurance, where any Software is not used for production pur
 
 2.2.1        **Initial Orders**. Orders for Subscriptions may be placed by Customer through the execution of Order Forms with ObjectBox, setting forth the (i) Subscription Level, (ii) specific Project(s) to which such Subscription applies, (iii) number of Billable Devices and/or ObxSync Instances for which Customer has purchased the Subscription, (iv) Subscription Term, and (v) total price for such Subscription. Each executed Order Form is incorporated by reference into and shall be governed by the terms and conditions of, this Agreement.
 
-2.2.2        **Additions and Upgrades to Subscriptions**. Customer may add further Billable Devices, ObxSync Instances to an existing Subscription, and/or upgrade the Subscription Level of an existing Subscription, by entering into one or more additional Order Forms setting forth the number of Billable Devices and / or ObxSync Instances to be added, and/or the new Subscription Level that applies, to the existing Subscription. Upon execution of such an Order Form by the parties, the additional Billable Devices and / or ObxSync Instances, and/or the new Subscription Level, will be deemed added to the applicable Subscription for the remainder of the applicable Subscription Term, or, if so indicated on the Order Form, a new Subscription Term may be initiated that includes the increased number of Billable Devices and / or ObxSync Instances, and/or the new Subscription Level. Any additional Subscription Fees payable by the Customer in connection with any upgraded Subscription Level or amended Subscription Term shall be specified on the Order Form.
+2.2.2        **Additions and Upgrades to Subscriptions**. Customer may add further Billable Devices, ObxSync Instances, ObxSync Users to an existing Subscription, and/or upgrade the Subscription Level of an existing Subscription, by entering into one or more additional Order Forms setting forth the number of Billable Devices and / or ObxSync Instances and/or ObxSync Users to be added, and/or the new Subscription Level that applies, to the existing Subscription. Upon execution of such an Order Form by the parties, the additional Billable Devices and / or ObxSync Instances and/or ObxSync Users, and/or the new Subscription Level, will be deemed added to the applicable Subscription for the remainder of the applicable Subscription Term, or, if so indicated on the Order Form, a new Subscription Term may be initiated that includes the increased number of Billable Devices and / or ObxSync Instances and/or ObxSync Users, and/or the new Subscription Level. Any additional Subscription Fees payable by the Customer in connection with any upgraded Subscription Level or amended Subscription Term shall be specified on the Order Form.
 
 2.3  <ins> Subscriptions Purchased Through Resellers.</ins>
 
