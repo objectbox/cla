@@ -355,4 +355,4 @@ Capitalized terms used herein have the meaning set forth in the Agreement or asc
 
 3.3  “**Malicious Code**” means any code that is designed to harm, or otherwise disrupt in any unauthorized manner, the operation of Customer’s computer programs or computer systems or destroy or damage data. For clarity, Malicious Code shall not include any software bugs or errors handled through Support Services, or any standard features of functions of the Commercial Software and/or any License Key that are intended to enforce the temporal and/or other limitations on the scope of the use of the Commercial Software to the scope of the License granted to Customer.
 
-Version: 2.0, updated August 2020
+Version: 2.0, updated August 2025
