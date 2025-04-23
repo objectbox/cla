@@ -1,7 +1,7 @@
 ObjectBox Support Services Policy
 =================================
 
-**Effective Date: July 2020**
+**Effective Date: April 2025**
 
 This ObjectBox Support Services Policy (“Policy”) is the primary document used to communicate ObjectBox’s (“we/us/our”) support policies to licensees of ObjectBox Software (each a “Customer”, or “you/your”), including ObjectBox’s Commercial Software and ObjectBox Community Software. As referenced in either the licence under which you obtain and are granted the right to use ObjectBox’s Commercial Software and/or the agreement under which you obtain a subscription (“Subscription”) from ObjectBox or through a Reseller to ObjectBox’s Support Services (in each case, the relevant “Agreement”), this Support Services Policy sets forth ObjectBox’s support terms and conditions, and provides a description of ObjectBox’s technical support levels. Capitalized terms that are not defined in this document carry the definition set forth in the applicable Agreement. This Policy is incorporated into your Agreement with us either directly or by reference.
 
@@ -22,7 +22,7 @@ ObjectBox offers three different levels of the Support Services which are define
 
 For all support requests, send an email to ![support email](images/email-support.png).
 In any case, the submission needs to be set up prior to engaging an ObjectBox resource. Once the appropriate support request is filed, the most optimal method of contact may be utilized (phone, web interface, email), subject to the applicable Subscription Level. Severity Level 1 and 2 issues must be filed via the web interface. Severity Level 3 issues may be filed via email or the web interface. All e-mail based production tickets will be treated as Severity Level 3.
-Support is only provided up to the number of Billable Devices and/or ObxSync Instances in the Subscription.
+Support is only provided up to the number of Billable Devices and/or ObxSync Instances and/or ObxSync Users in the Subscription.
 
 **Definition of terms**:
 
@@ -42,6 +42,7 @@ The default time zone for Normal Hours of Operation is CET (unless we notify you
 *	**Annual Incidents**: unlimited
 *	**Billable Devices**: up to the limit specified on the Order Form
 * **ObxSync Instances**: up to the limit specified on the Order Form
+* **ObxSync Users**: up to the limit specified on the Order Form
 
 | Severity | Target Response |
 | --- | ----------- |
@@ -58,6 +59,7 @@ The default time zone for Normal Hours of Operation is CET (unless we notify you
 *	**Annual Incidents**: 20
 *	**Billable Devices**: up to the limit specified on the Order Form
 *	**ObxSync Instances**: up to the limit specified on the Order Form
+*	**ObxSync Users**: up to the limit specified on the Order Form
 
 | Severity | Target Response |
 | --- | ----------- |
@@ -74,6 +76,7 @@ The default time zone for Normal Hours of Operation is CET (unless we notify you
 *	**Annual Incidents**: 10
 *	**Billable Devices**: up to the limit specified on the Order Form
 *	**ObxSync Instances**: up to the limit specified on the Order Form
+*	**ObxSync Users**: up to the limit specified on the Order Form
 
 | Severity | Target Response |
 | --- | ----------- |
