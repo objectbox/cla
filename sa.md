@@ -1,6 +1,6 @@
 ObjectBox Subscription Agreement
 ================================
-This **ObjectBox Subscription Agreement**, including all attachments, amendments, schedules and exhibits, and documents at referenced URLs (this "**Agreement**") is entered into by and between ObjectBox GmbH, with its principal place of business located at Boumannstr 31, 13467 Berlin, Germany ("**ObjectBox**"), and the entity identified as the "Customer" ("**Customer**") on the signature block of the ObjectBox order form executed by ObjectBox and Customer ("**Order Form**"), as of the date specified in such Order Form ("**Effective Date**").
+This **ObjectBox Subscription Agreement**, including all attachments, amendments, schedules and exhibits, and documents at referenced URLs (this "**Agreement**") is entered into by and between ObjectBox GmbH, with its principal place of business located at Boumannstr 31, 13467 Berlin, Germany ("**ObjectBox**"), and the entity identified as the "Customer" ("**Customer**") on the signature block of the ObjectBox Order Form executed by ObjectBox and Customer ("**Order Form**"), as of the date specified in such Order Form ("**Effective Date**").
 
 ## 1. DEFINITIONS
 
